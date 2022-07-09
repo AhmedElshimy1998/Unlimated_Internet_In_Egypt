@@ -5,7 +5,7 @@ tweet boot for Unlimated_Internet_In_Egypt
 2. install library <br>
 	- pip install selenium <br>
 	- pip install webdriver-manager <br>
-3. open script: <br>
+3. open run.bat file or : <br>
 	- open run <br>
 	- cmd <br>
 	- cd path of script <br>
